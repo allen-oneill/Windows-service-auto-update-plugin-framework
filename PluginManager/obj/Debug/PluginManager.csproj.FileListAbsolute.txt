@@ -1,0 +1,7 @@
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PluginManager\bin\Debug\PluginManager.dll
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PluginManager\bin\Debug\PluginManager.pdb
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PluginManager\bin\Debug\PluginContract.dll
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PluginManager\bin\Debug\PluginContract.pdb
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PluginManager\obj\Debug\PluginManager.csprojResolveAssemblyReference.cache
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PluginManager\obj\Debug\PluginManager.dll
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PluginManager\obj\Debug\PluginManager.pdb

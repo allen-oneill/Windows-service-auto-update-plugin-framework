@@ -1,0 +1,7 @@
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PLG_TestPlugin_003\bin\Debug\PLGP_TestPlugin_003.dll
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PLG_TestPlugin_003\bin\Debug\PLGP_TestPlugin_003.pdb
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PLG_TestPlugin_003\bin\Debug\PluginContract.dll
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PLG_TestPlugin_003\bin\Debug\PluginContract.pdb
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PLG_TestPlugin_003\obj\Debug\PLG_TestPlugin_003.csprojResolveAssemblyReference.cache
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PLG_TestPlugin_003\obj\Debug\PLGP_TestPlugin_003.dll
+C:\Users\Allen\Desktop\Service framework FINAL\Code project service plugin framework\PLG_TestPlugin_003\obj\Debug\PLGP_TestPlugin_003.pdb
